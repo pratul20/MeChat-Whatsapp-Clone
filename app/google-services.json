@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "781988303683",
+    "project_id": "mechat-87ccb",
+    "storage_bucket": "mechat-87ccb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781988303683:android:e33c88dae19d147e6d95f6",
+        "android_client_info": {
+          "package_name": "com.pratul20.mechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781988303683-cth7lk022f8pciqsurmchldem5fc26l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVn78fbdVKJ6X1-Lra8NOBAimF8mS6c_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781988303683-cth7lk022f8pciqsurmchldem5fc26l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
